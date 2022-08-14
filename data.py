@@ -19,3 +19,13 @@ locations =[
     "PP Kornati",
     "NP Brijuni"
 ]
+
+colors = [
+    "red",
+    "orange",
+    "yellow",
+    "blue",
+    "purple",
+    "green",
+    "brown"
+]
