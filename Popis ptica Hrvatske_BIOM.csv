@@ -1,0 +1,401 @@
+RED- BR,Znanstveno ime,Hrvatsko ime,Englesko ime,Nazočnost,Redovitost,Gnjezdarica,Preletnica,Zimovalica,Status ugroženosti gnijezdeće populacije,Kriterij ugroženosti (GN),Status ugroženosti na globalnoj razini,Bern,Bonn ,EU dir
+1,Gavia stellata,crvenogrli plijenor,Red-throated Loon,A,R, -, -,W, -, -,LC,-,-,-
+2,Gavia arctica,crnogrli plijenor,Black-throated Loon,A,R, -, -,W, -, -,LC,-,-,-
+3,Gavia immer,veliki plijenor,Great Northern Loon,A,Rare, -, -, -, -, -,LC,II,ll,I
+4,Gavia adamsii,žutokljuni plijenor,Yellow-billed Loon,A,Rare, -, -, -, -, -,NT,II,ll,
+5,Tachybaptus ruficollis,mali gnjurac,Little Grebe,A,R,B,M,W,LC, -,LC,-,-,-
+6,Podiceps cristatus,ćubasti gnjurac,Great Crested Grebe,A,R,B,M,W,LC, -,LC,-,-,-
+7,Podiceps grisegena,riđogrli gnjurac,Red-necked Grebe,A,R, -,M,W, -, -,LC,-,-,-
+8,Podiceps auritus,ušati gnjurac,Horned Grebe,A,Ir, -, -,W*, -, -,LC,-,-,-
+9,Podiceps nigricollis,crnogrli gnjurac,Black-necked Grebe,A,R,B,M,W,EN, -,LC,II,,
+10,Calonectris diomedea,veliki zovoj,Cory's Shearwater,A,R,B, -, -,NT, -,LC,II,,I
+11,Puffinus yelkouan,gregula,Yelkouan Shearwater,A,R,B, -, -,VU, -,VU,II,,
+12,Hydrobates pelagicus,burnica,European Storm-petrel,A,Rare, -, -, -, -, -,LC,II,,I
+13,Pelecanus onocrotalus,ružičasti nesit,Great White Pelican,A,Rare, -, -, -, -, -,LC,II,"l, ll",I
+14,Pelecanus crispus,kudravi nesit,Dalmatian Pelican,A,Rare,BRe, -, -,RE, -,VU,II,"l, ll",I
+15,Morus bassanus,bluna,Northern Gannet,A,Rare, -, -, -, -, -,LC,lll,,
+16,Phalacrocorax carbo,veliki vranac,Great Cormorant,A,R,B,M,W,NT, -,LC,lll,,
+17,Phalacrocorax aristotelis,morski vranac,European Shag,A,R,B, -, -,LC, -,LC,II,,I
+18,Phalacrocorax pygmeus,mali vranac,Pygmy Cormorant,A,R,B, -,W,CR, -,LC,II,ll,I
+19,Ardea cinerea,siva čaplja,Grey Heron,A,R,B,M,W,LC, -,LC,lll,,
+20,Ardea purpurea,čaplja danguba,Purple Heron,A,R,B,M, -,EN, -,LC,II,ll,I
+21,Casmerodius albus,velika bijela čaplja,Great Egret,A,R,B,M,W,EN, -,LC,II,,I
+22,Egretta garzetta,mala bijela čaplja,Little Egret,A,R,B,M,W*,VU, -,LC,II,,I
+23,Bubulcus ibis,čaplja govedarica,Cattle Egret,A,Rare, -, -, -, -, -,LC,II,,
+24,Ardeola ralloides,žuta čaplja,Squacco Heron,A,R,B,M, -,EN, -,LC,II,,I
+25,Nycticorax nycticorax,gak,Black-crowned Night-heron,A,R,B,M, -,NT, -,LC,II,,I
+26,Ixobrychus minutus,čapljica voljak,Little Bittern,A,R,B,M, -,LC, -,LC,II,ll,I
+27,Botaurus stellaris,bukavac,Great Bittern,A,R,B,M,W,EN, -,LC,II,,I
+28,Mycteria ibis,žutokljuna roda,Yellow-billed Stork,D,Rare, -, -, -, -, -,LC,II,,
+29,Ciconia nigra,crna roda,Black Stork,A,R,B,M, -,VU, -,LC,II,ll,I
+30,Ciconia ciconia,bijela roda,White Stork,A,R,B,M, -,LC, -,LC,II,ll,I
+31,Geronticus eremita,ćelavi ibis,Northern Bald Ibis,A,Rare,BRe, -, -,RE, -,CR,,,
+32,Plegadis falcinellus,blistavi ibis,Glossy Ibis,A,R,B*,M, -,NA, -,LC,II,ll,I
+33,Platalea leucorodia,žličarka,Eurasian Spoonbill,A,R,B,M,W*,EN, -,LC,II,ll,I
+34,Platalea alba,afrička žličarka,African Spoonbill,D,Rare, -, -, -, -, -,LC,,II,
+35,Phoenicopterus roseus,plamenac,Greater Flamingo,A,Ac, -, -, -, -, -,LC,II,ll,I
+36,Cygnus olor,crvenokljuni labud,Mute Swan,A,R,B, -,W,LC*, -,LC,lll,ll,II-B 
+37,Cygnus atratus,crni labud,Black Swan,D,Rare, -, -, -, -, -,LC,,,
+38,Cygnus cygnus,žutokljuni labud,Whooper Swan,A,Ir, -, -,W*, -, -,LC,II,ll,I
+39,Cygnus columbianus,mali labud,Tundra Swan,A,Rare, -, -, -, -, -,LC,II,ll,I
+40,Anser fabalis,guska glogovnjača,Bean Goose,A,R, -, -,W, -, -,LC,II,ll,I
+41,Anser brachyrhynchus,kratkokljuna guska,Pink-footed Goose,A,Rare, -, -, -, -, -,LC,lll,ll,II-B 
+42,Anser albifrons,lisasta guska,Greater White-fronted Goose,A,R, -,M,W, -, -,LC,lll,ll,II-B 
+43,Anser erythropus,mala guska,Lesser White-fronted Goose,A,Rare, -, -, -, -, -,VU,II,"l, ll",I
+44,Anser anser,siva guska,Greylag Goose,A,R,B,M,W,VU, -,LC,lll,ll,II-A/III-B
+45,Anser indicus,indijska guska,Bar-headed Goose,D,Rare, -, -, -, -, -,LC,,II,
+46,Branta bernicla,grivasta guska,Brent Goose,A,Rare, -, -, -, -, -,LC,lll,ll,II-B 
+47,Branta ruficollis,crvenovrata guska,Red-breasted Goose,A,Rare, -, -, -, -, -,EN,II,"l, ll",I
+48,Alopochen aegyptiaca,egipatska guska,Egyptian Goose,D,Rare, -, -, -, -, -,LC,,II,
+49,Tadorna ferruginea,zlatokrila utva,Ruddy Shelduck,A,Rare, -, -, -, -, -,LC,II,ll,I
+50,Tadorna tadorna,utva,Common Shelduck,A,Ir, -,M*,W*, -, -,LC,II,ll,
+51,Cairina moschata,mošusna patka,Muscovy Duck,D,Ir, -, -, -, -, -,LC,,,
+52,Aix sponsa,američka mandarinka,Wood Duck,D,Rare, -, -, -, -, -,LC,,,
+53,Aix galericulata,mandarinka,Mandarin Duck,D,Rare, -, -, -, -, -,LC,,,
+54,Anas penelope,zviždara,Eurasian Wigeon,A,R, -,M,W, -, -,LC,,,
+55,Anas strepera,patka kreketaljka,Gadwall,A,R,B,M,W,EN, -,LC,lll,ll,II-A
+56,Anas crecca,kržulja,Common Teal,A,R, -,M,W, -, -,LC,lll,ll,II-A/III-B
+57,Anas platyrhynchos,divlja patka,Mallard,A,R,B,M,W,LC, -,LC,lll,ll,II-A/III-A
+58,Anas acuta,patka lastarka,Northern Pintail,A,R,BRe,M,W,RE, -,LC,lll,ll,II-A/III-B
+59,Anas querquedula,patka pupčanica,Garganey,A,R,B,M,W*,NT, -,LC,lll,ll,II-A
+60,Anas clypeata,patka žličarka,Northern Shoveler,A,R,BRe,M,W,RE, -,LC,lll,ll,II-A/III-B
+61,Netta rufina,patka gogoljica,Red-crested Pochard,A,R,B,M,W,VU*, -,LC,lll,ll,II-A/III-B
+62,Aythya ferina,glavata patka,Common Pochard,A,R,B,M,W,LC, -,LC,lll,ll,II-A/III-B
+63,Aythya nyroca,patka njorka,Ferruginous Duck,A,R,B,M,W,NT, -,NT,lll,"l, ll",I
+64,Aythya fuligula,krunata patka,Tufted Duck,A,R,B,M,W,NT*, -,LC,lll,ll,II-A/III-B
+65,Aythya marila,patka crninka,Greater Scaup,A,Ir, -,M*,W*, -, -,LC,lll,ll,II-B /III-B
+66,Somateria mollissima,gavka,Common Eider,A,Ac, -, -, -, -, -,LC,lll,ll,II-B /III-B
+67,Clangula hyemalis,patka ledara,Long-tailed Duck,A,Ac, -, -, -, -, -,VU,lll,ll,II-B 
+68,Melanitta nigra,crna patka,Black Scoter,A,Rare, -, -, -, -, -,LC,lll,ll,II-B /III-B
+69,Melanitta fusca,patka kulašica,White-winged Scoter,A,Ir, -, -,W*, -, -,EN,lll,ll,II-B 
+70,Bucephala clangula,patka batoglavica,Common Goldeneye,A,R, -, -,W, -, -,LC,lll,ll,II-B 
+71,Mergellus albellus,bijeli ronac,Smew,A,R, -, -,W, -, -,LC,lll,ll,II-B 
+72,Mergus serrator,mali ronac,Red-breasted Merganser,A,R, -, -,W, -, -,LC,lll,ll,II-B 
+73,Mergus merganser,veliki ronac,Common Merganser,A,R,B, -,W,CR, -,LC,lll,ll,II-B 
+74,Oxyura leucocephala,čakora,White-headed Duck,B,, -,MRe,WRe, -, -,EN,II,"l, ll",I
+75,Pandion haliaetus,bukoč,Osprey,A,R,BRe,M, -,RE, -,LC,II,ll,I
+76,Pernis apivorus,škanjac osaš,European Honey-buzzard,A,R,B,M, -,NT*, -,LC,II,ll,l
+77,Milvus milvus,crvena lunja,Red Kite,A,R,BRe,M*,W*,RE, -,NT,II,ll,I
+78,Milvus migrans,crna lunja,Black Kite,A,R,B,M, -,EN, -,LC,II,ll,I
+79,Haliaeetus albicilla,štekavac,White-tailed Eagle,A,R,B, -, -,VU, -,LC,II,"l, ll",I
+80,Gypaetus barbatus,kostoberina,Lammergeier,B,, -, -, -, -, -,LC,II,ll,I
+81,Neophron percnopterus,crkavica,Egyptian Vulture,A,,BRe, -, -,RE, -,EN,II,ll,I
+82,Gyps fulvus,bjeloglavi sup,Griffon Vulture,A,R,B, -, -,EN, -,LC,II,ll,I
+83,Aegypius monachus,crni lešinar,Cinereous Vulture,B,,BRe, -, -,RE, -,NT,II,ll,I
+84,Torgos tracheliotos,veliki sup,Lappet-faced Vulture,D,Rare, -, -, -, -, -,VU,,,
+85,Circaetus gallicus,zmijar,Short-toed Snake-eagle,A,R,B, -, -,EN, -,LC,II,ll,I
+86,Circus aeruginosus,eja močvarica,Western Marsh-harrier,A,R,B,M,W,EN, -,LC,II,ll,I
+87,Circus cyaneus,eja strnjarica,Northern Harrier,A,R, -,M,W, -, -,LC,II,ll,I
+88,Circus pygargus,eja livadarka,Montagu's Harrier,A,R,B,M,W*,EN, -,LC,II,ll,I
+89,Circus macrourus,stepska eja,Pallid Harrier,A,Rare, -, -, -, -, -,NT,II,ll,I
+90,Accipiter brevipes,kratkoprsti kobac,Levant Sparrowhawk,A,R,B, -, -,CR, -,LC,II,ll,I
+91,Accipiter gentilis,jastreb,Northern Goshawk,A,R,B, -,W*,LC, -,LC,II,ll,
+92,Accipiter nisus,kobac,Eurasian Sparrowhawk,A,R,B,M,W,LC, -,LC,II,ll,
+93,Buteo buteo,škanjac,Common Buzzard,A,R,B,M,W,LC, -,LC,II,ll,
+94,Buteo rufinus,riđi škanjac,Long-legged Buzzard,A,Rare, -, -, -, -, -,LC,II,ll,I
+95,Buteo lagopus,škanjac gaćaš,Rough-legged Hawk,A,Ir, -, -, -, -, -,LC,II,ll,
+96,Aquila pomarina,orao kliktaš,Lesser Spotted Eagle,A,R,B, -, -,EN, -,LC,II,ll,I
+97,Aquila clanga,orao klokotaš,Greater Spotted Eagle,A,R, -, -,W, -, -,VU,II,"l, ll",I
+98,Aquila nipalensis,stepski orao,Steppe Eagle,B,, -, -, -, -, -,LC,II,II,
+99,Aquila heliaca,orao krstaš,Eastern Imperial Eagle,A,R,B, -, -,CR-pe, -,VU,II,"l, ll",I
+100,Aquila chrysaetos,suri orao,Golden Eagle,A,R,B, -, -,CR, -,LC,II,ll,I
+101,Aquila fasciatus,prugasti orao,Bonelli's Eagle,A,R,B, -, -,CR, -,LC,II,ll,I
+102,Hieraaetus pennatus,patuljasti orao,Booted Eagle,A,R,B,M*, -,CR, -,LC,II,ll,I
+103,Falco naumanni,bjelonokta vjetruša,Lesser Kestrel,A,R,B,M, -,CR, -,VU,II,"l, ll",I
+104,Falco tinnunculus,vjetruša,Common Kestrel,A,R,B,M,W,LC, -,LC,II,ll,
+105,Falco vespertinus,crvenonoga vjetruša,Red-footed Falcon,A,R, -,M, -, -, -,NT,II,ll,I
+106,Falco eleonorae,Eleonorin sokol,Eleonora's Falcon,A,R,B, -, -,EN, -,LC,II,ll,I
+107,Falco columbarius,mali sokol,Merlin,A,R, -,M,W, -, -,LC,II,ll,I
+108,Falco subbuteo,sokol lastavičar,Eurasian Hobby,A,R,B,M, -,NT, -,LC,II,ll,
+109,Falco biarmicus,krški sokol,Lanner Falcon,A,R,B, -, -,CR, -,LC,II,ll,I
+110,Falco cherrug,stepski sokol,Saker Falcon,A,R,B,M,W*,CR, -,EN,II,ll,
+111,Falco peregrinus,sivi sokol,Peregrine Falcon,A,R,B,M*,W,VU*, -,LC,II,ll,I
+112,Tetrao tetrix,tetrijeb ruševac,Black Grouse,B,,BRe, -, -,RE, -,LC,lll,,I/II-B
+113,Tetrao urogallus,tetrijeb gluhan,Western Capercaillie,A,R,B, -, -,EN, -,LC,ll,,I/II-B/III-B
+114,Bonasa bonasia,lještarka,Hazel Grouse,A,R,B, -, -,NT, -,LC,lll,,I/II-B
+115,Colinus virginianus,virdžinijska prepelica,Northern Bobwhite,C,R,B, -, -,NA, -,NT,,,
+116,Alectoris graeca,jarebica kamenjarka,Rock Partridge,A,R,B, -, -,NT, -,NT,lll,,"I, II-A"
+117,Alectoris chukar,čukara,Chukar,C,R,B, -, -,NA, -,LC,lll,,II-B 
+118,Alectoris rufa,riđa jarebica,Red-legged Partridge,D,, -, -, -, -, -,LC,,,II-A/III-A
+119,Perdix perdix,trčka,Grey Partridge,A,R,B, -, -,LC, -,LC,lll,,II-A/III-A
+120,Coturnix coturnix,prepelica,Common Quail,A,R,B,M,W*,LC, -,LC,lll,ll,II-B 
+121,Phasianus colchicus,fazan,Common Pheasant,C,R,B, -, -,NA, -,LC,lll,,II-A/III-A
+122,Grus grus,ždral,Common Crane,A,R, -,M,W, -, -,LC,II,ll,I
+123,Rallus aquaticus,kokošica,Water Rail,A,R,B,M,W,LC, -,LC,lll,,II-B 
+124,Crex crex,kosac,Corncrake,A,R,B,M, -,VU, -,LC,II,ll,I
+125,Porzana porzana,riđa štijoka,Spotted Crake,A,R,B,M,W,EN, -,LC,II,ll,I
+126,Porzana parva,siva štijoka,Little Crake,A,R,B,M,W*,EN, -,LC,II,ll,I
+127,Porzana pusilla,mala štijoka,Baillon's Crake,A,R,B,M, -,CR, -,LC,II,ll,I
+128,Porphyrio porphyrio,velika sultanka,Purple Swamphen,B,, -, -, -, -, -,LC,II,,I
+129,Gallinula chloropus,mlakuša,Common Moorhen,A,R,B,M,W,LC, -,LC,lll,,II-B 
+130,Fulica atra,liska,Common Coot,A,R,B,M,W,LC, -,LC,lll,ll*,II-A/III-B
+131,Otis tarda,droplja,Great Bustard,A,Ac,BRe,M*,W*,RE, -,VU,II,"l, ll",I
+132,Tetrax tetrax,mala droplja,Little Bustard,A,Rare, -,M*,W*, -, -,NT,II,,I
+133,Haematopus ostralegus,oštrigar,Eurasian Oystercatcher,A,R, -,M, -, -, -,LC,lll,,II-B 
+134,Himantopus himantopus,vlastelica,Black-winged Stilt,A,R,B,M, -,VU*, -,LC,II,ll,I
+135,Recurvirostra avosetta,modronoga sabljarka,Pied Avocet,A,R,B,M, -,NA, -,LC,II,ll,I
+136,Burhinus oedicnemus,ćukavica,Eurasian Thick-knee,A,R,B,M*, -,EN, -,LC,II,ll,I
+137,Cursorius cursor,smeđa trkalica,Cream-coloured Courser,B,, -, -, -, -, -,LC,II,,I
+138,Glareola pratincola,riđokrila pješčarka,Collared Pratincole,A,Ir, -,M*, -, -, -,LC,II,ll,I
+139,Glareola nordmanni,crnokrila pješčarka,Black-winged Pratincole,A,Rare, -, -, -, -, -,NT,II,ll,
+140,Vanellus vanellus,vivak,Northern Lapwing,A,R,B,M,W,LC, -,LC,lll,ll,II-B 
+141,Vanellus spinosus,ostrugasti vivak,Spur-winged Lapwing,B,, -, -, -, -, -,LC,,,
+142,Vanellus leucurus,bjelorepi vivak,White-tailed Lapwing,A,Rare, -, -, -, -, -,LC,,,
+143,Pluvialis apricaria,troprsti zlatar,Eurasian Golden Plover,A,Ir, -,M*,W, -, -,LC,lll,ll,I;II-B;III-B
+144,Pluvialis squatarola,zlatar pijukavac,Grey Plover,A,R, -,M,W, -, -,LC,lll,ll,II-B
+145,Charadrius hiaticula,kulik blatarić,Common Ringed Plover,A,R, -,M,W*, -, -,LC,II,ll,
+146,Charadrius dubius,kulik sljepčić,Little Ringed Plover,A,R,B,M, -,NT, -,LC,II,ll,
+147,Charadrius alexandrinus,morski kulik,Kentish Plover,A,R,B,M*, -,CR, -,LC,II,ll,
+148,Eudromias morinellus,šareni kulik,Eurasian Dotterel,A,Rare, -, -, -, -, -,LC,II,ll,I
+149,Scolopax rusticola,šljuka,Eurasian Woodcock,A,R,B,M,W,CR, -,LC,lll,ll,II-A/III-B
+150,Lymnocryptes minimus,mala šljuka,Jack Snipe,A,R, -,M,W, -, -,LC,lll,ll,II-A/III-B
+151,Gallinago media,šljuka livadarka,Great Snipe,A,Ir, -,M*, -, -, -,NT,II,ll,I
+152,Gallinago gallinago,šljuka kokošica,Common Snipe,A,R,B,M,W,CR, -,LC,lll,ll,II-A/III-B
+153,Limosa limosa,crnorepa muljača,Black-tailed Godwit,A,R, -,M, -, -, -,NT,lll,ll,II-B
+154,Limosa lapponica,riđa muljača,Bar-tailed Godwit,A,Ir, -,M*,W*, -, -,LC,lll,ll,I/II-B
+155,Numenius phaeopus,prugasti pozviždač,Whimbrel,A,R, -,M, -, -,,LC,lll,ll,II-B 
+156,Numenius tenuirostris,tankokljuni prozviždač,Slender-billed Curlew,A,Rare, -,M*, -, -,,CR,II,"l, ll",I
+157,Numenius arquata,veliki pozviždač,Eurasian Curlew,A,R, -,M,W, -,,NT,lll,ll,II-B 
+158,Bartramia longicauda,prerijska prutka,Upland Sandpiper,B,, -, -, -, -,,LC,,,
+159,Tringa erythropus,crna prutka,Spotted Redshank,A,R, -,M, -, -,,LC,lll,ll,II-B 
+160,Tringa totanus,crvenonoga prutka,Common Redshank,A,R,B,M,W,CR,B1ab(v)+2ab(v); D,LC,lll,ll,II-B 
+161,Tringa stagnatilis,dugonoga prutka,Marsh Sandpiper,A,R, -,M, -, -,,LC,II,ll,
+162,Tringa nebularia,krivokljuna prutka,Common Greenshank,A,R, -,M,W*, -,,LC,lll,ll,II-B 
+163,Tringa melanoleuca,žutonoga prutka,Greater Yellowlegs,A,Rare, -, -, -, -,,LC,,,
+164,Tringa ochropus,crnokrila prutka,Green Sandpiper,A,R, -,M,W, -,,LC,II,ll,
+165,Tringa glareola,prutka migavica,Wood Sandpiper,A,R, -,M, -, -,,LC,II,ll,I
+166,Xenus cinereus,prutka sabljarka,Terek Sandpiper,A,Rare, -, -, -, -,,LC,II,ll,I
+167,Actitis hypoleucos,mala prutka,Common Sandpiper,A,R,B,M,W,VU,D1,LC,II,ll,
+168,Arenaria interpres,kameničar,Ruddy Turnstone,A,Ir, -,M*,W*, -,,LC,II,ll,
+169,Calidris canutus,rđasti žalar,Red Knot,A,Ir, -,M*, -, -,,LC,lll,ll,II-B 
+170,Calidris alba,bijeli žalar,Sanderling,A,R, -,M, -, -,,LC,II,ll,
+171,Calidris minuta,mali žalar,Little Stint,A,R, -,M, -, -,,LC,II,ll,
+172,Calidris temminckii,sijedi žalar,Temminck's Stint,A,R, -,M, -, -,,LC,II,ll,
+173,Calidris ferruginea,krivokljuni žalar,Curlew Sandpiper,A,R, -,M, -, -,,LC,II,ll,
+174,Calidris maritima,morski žalar,Purple Sandpiper,B,, -, -, -, -,,LC,II,ll,
+175,Calidris alpina,žalar cirikavac,Dunlin,A,R, -,M,W, -,,LC,II,ll,
+176,Limicola falcinellus,plosnatokljuni žalar,Broad-billed Sandpiper,A,Rare, -, -, -, -,,LC,II,ll,
+177,Philomachus pugnax,pršljivac,Ruff,A,R, -,M,W*, -,,LC,lll,ll,I;II-B
+178,Phalaropus lobatus,tankokljuna liskonoga,Red-necked Phalarope,A,Rare, -, -, -, -,,LC,lll,ll,I
+179,Phalaropus fulicarius,riđa liskonoga,Red Phalarope,B,, -, -, -, -,,LC,lll,ll,
+180,Catharacta skua,veliki pomornik,Great Skua,B,, -, -, -, -,,LC,lll,,
+181,Stercorarius pomarinus,širokorepi pomornik,Pomarine Jaeger,A,Rare, -, -, -, -,,LC,lll,,
+182,Stercorarius parasiticus,kratkorepi pomornik,Parasitic Jaeger,A,Rare, -, -, -, -,,LC,lll,,
+183,Stercorarius longicaudus,dugorepi pomornik,Long-tailed Jaeger,A,Rare, -, -, -, -,,LC,lll,,
+184,Larus canus,burni galeb,Mew Gull,A,R, -,M,W, -,,LC,lll,,II-B 
+185,Larus audouinii,sredozemni galeb,Audouin's Gull,A,R,B, -, -,EN,D,NT,II,"l, ll",I
+186,Larus delawarensis,prstenokljuni galeb,Ring-billed Gull,A,Rare, -, -, -, -,,LC,,,
+187,Larus marinus,veliki galeb,Great Black-backed Gull,A,Rare, -, -, -, -,,LC,,,II-B 
+188,Larus argentatus,srebrnasti galeb,Herring Gull,A,R, -,M,W, -,,LC,,,II-B 
+189,Larus cachinnans,pontski galeb,Caspian Gull,A,R, -,M,W, -,,LC,,,II-B 
+190,Larus michahellis,galeb klaukavac,Yellow-legged Gull,A,R,B,M,W,LC,-,LC,,,
+191,Larus fuscus,tamnoleđi galeb,Lesser Black-backed Gull,A,R, -,M,W, -,,LC,,,II-B 
+192,Larus ridibundus,riječni galeb,Black-headed Gull,A,R,B,M,W,NT,-,LC,lll,,II-B 
+193,Larus genei,tankokljuni galeb,Slender-billed Gull,A,Rare, -, -, -, -,,LC,II,ll,I
+194,Larus melanocephalus,crnoglavi galeb,Mediterranean Gull,A,R, -,M, -, -,,LC,II,ll,I
+195,Larus pipixcan,prerijski galeb,Franklin's Gull,A,Rare, -, -, -, -,,LC,,,
+196,Larus minutus,mali galeb,Little Gull,A,R, -,M,W, -,,LC,II,,I
+197,Rissa tridactyla,troprsti galeb,Black-legged Kittiwake,A,Ac, -, -, -, -,,LC,lll,,
+198,Sterna nilotica,debelokljuna čigra,Gull-billed Tern,A,Ir,BRe*,M*, -,NA,-,LC,II,,I
+199,Sterna caspia,velika čigra,Caspian Tern,A,R, -,M, -, -,,LC,II,ll,I
+200,Sterna sandvicensis,dugokljuna čigra,Sandwich Tern,A,R, -,M,W, -,,LC,II,ll,I
+201,Sterna hirundo,crvenoklunja  čigra,Common Tern,A,R,B,M, -,NT*,-,LC,II,ll,I
+202,Sterna albifrons,mala čigra,Little Tern,A,R,B,M, -,EN,,LC,II,ll,I
+203,Chlidonias hybrida,bjelobrada čigra,Whiskered Tern,A,R,B,M, -,NT,-,LC,II,,I
+204,Chlidonias leucopterus,bjelokrila čigra,White-winged Tern,A,R,BRe*,M, -,NA,-,LC,II,ll,
+205,Chlidonias niger,crna čigra,Black Tern,A,R,BRe*,M, -,NA,-,LC,II,ll,I
+206,Alca torda,plosnatokljuna njorka,Razorbill,B,, -, -, -, -,,LC,III,,
+207,Cepphus grylle,crna njorka,Black Guillemot,B,, -, -, -, -,,LC,III,,
+208,Fratercula arctica,tupik,Atlantic Puffin,A,Rare, -, -, -, -,,LC,lll,,
+209,Syrrhaptes paradoxus,kirgiska sadža,Pallas's Sandgrouse,B,, -, -, -, -,,LC,,,
+210,Columba livia,divlji golub,Rock Pigeon,A,R,B, -, -,LC,-,LC,lll,,II-A
+211,Columba oenas,golub dupljaš,Stock Dove,A,R,B,M,W,VU,D1,LC,lll,,II-B 
+212,Columba palumbus,golub grivnjaš,Common Wood-pigeon,A,R,B,M,W,LC,-,LC,,,II-A/III-A
+213,Streptopelia turtur,grlica,European Turtle-dove,A,R,B,M, -,LC,-,LC,lll,,II-B 
+214,Streptopelia decaocto,gugutka,Eurasian Collared-dove,A,R,B, -, -,LC,-,LC,lll,,II-B 
+215,Psittacula krameri,mala aleksandra,Rose-ringed Parakeet,D,Rare, -, -, -, -,,LC,,,
+216,Clamator glandarius,afrička kukavica,Great Spotted Cuckoo,A,Ir,B*, -, -,NA,-,LC,II,,
+217,Cuculus canorus,kukavica,Common Cuckoo,A,R,B,M, -,LC,-,LC,lll,,
+218,Tyto alba,kukuvija,Barn Owl,A,R,B, -, -,NT,-,LC,II,,
+219,Otus scops,ćuk,Common Scops-owl,A,R,B,M, -,LC,-,LC,II,,
+220,Bubo bubo,ušara,Eurasian Eagle-owl,A,R,B, -, -,NT,-,LC,II,,I
+221,Strix aluco,šumska sova,Tawny Owl,A,R,B, -, -,LC,-,LC,II,,
+222,Strix uralensis,jastrebača,Ural Owl,A,R,B, -, -,NT,-,LC,II,,l
+223,Glaucidium passerinum,mali ćuk,Eurasian Pygmy-owl,A,R,B, -, -,VU,D1,LC,II,,I
+224,Athene noctua,sivi ćuk,Little Owl,A,R,B, -, -,NT,-,LC,II,,
+225,Aegolius funereus,planinski ćuk,Boreal Owl,A,R,B, -, -,NT*,-,LC,II,,I
+226,Asio otus,mala ušara,Long-eared Owl,A,R,B,M,W,LC,-,LC,II,,
+227,Asio flammeus,sova močvarica,Short-eared Owl,A,R,B*,M*,W,NA,-,LC,II,,I
+228,Caprimulgus europaeus,leganj,Eurasian Nightjar,A,R,B,M, -,LC,-,LC,II,,I
+229,Apus apus,čiopa,Common Swift,A,R,B,M, -,LC,-,LC,lll,,
+230,Apus pallidus,smeda čiopa,Pallid Swift,A,R,B, -, -,LC,-,LC,II,,
+231,Tachymarptis melba,bijela čiopa,Alpine Swift,A,R,B, -, -,LC,-,LC,II,,
+232,Alcedo atthis,vodomar,Common Kingfisher,A,R,B,M,W,NT,-,LC,II,,I
+233,Merops persicus,plavolica pčelarica,Blue-cheeked Bee-eater,A,Rare, -, -, -, -,,LC,III,,
+234,Merops apiaster,pčelarica,European Bee-eater,A,R,B,M, -,LC,-,LC,II,ll,
+235,Coracias garrulus,zlatovrana,European Roller,A,R,B,M, -,CR,D,NT,II,ll,I
+236,Upupa epops,pupavac,Eurasian Hoopoe,A,R,B,M, -,LC,-,LC,II,,
+237,Jynx torquilla,vijoglav,Eurasian Wryneck,A,R,B,M, -,LC,-,LC,II,,
+238,Dendrocopos minor,mali djetlić,Lesser Spotted Woodpecker,A,R,B, -, -,LC,-,LC,II,,
+239,Dendrocopos medius,crvenoglavi djetlić,Middle Spotted Woodpecker,A,R,B, -, -,LC,-,LC,II,,I
+240,Dendrocopos leucotos,planinski djetlić,White-backed Woodpecker,A,R,B, -, -,LC,-,LC,II,,I
+241,Dendrocopos major,veliki djetlić,Great Spotted Woodpecker,A,R,B, -, -,LC,-,LC,II,,
+242,Dendrocopos syriacus,sirijski djetlić,Syrian Woodpecker,A,R,B, -, -,LC,-,LC,II,,I
+243,Picoides tridactylus,troprsti djetlić,Eurasian Three-toed Woodpecker,A,R,B, -, -,NT,-,LC,II,,I
+244,Dryocopus martius,crna žuna,Black Woodpecker,A,R,B, -, -,LC,-,LC,II,,I
+245,Picus viridis,zelena žuna,Eurasian Green Woodpecker,A,R,B, -, -,LC,-,LC,II,,
+246,Picus canus,siva žuna,Grey-faced Woodpecker,A,R,B, -, -,LC,-,LC,II,,I
+247,Melanocorypha calandra,velika ševa,Calandra Lark,A,R,B, -, -,VU,D1,LC,II,,I
+248,Calandrella brachydactyla,kratkoprsta ševa,Greater Short-toed Lark,A,R,B, -, -,VU,D1,LC,II,,I
+249,Eremophila alpestris,planinska ševa,Horned Lark,A,R,B, -, -,CR,B1b(iii)c(iv); D,LC,II,,
+250,Galerida cristata,kukmasta ševa,Crested Lark,A,R,B, -, -,LC,-,LC,lll,,
+251,Alauda arvensis,poljska ševa,Eurasian Skylark,A,R,B,M,W,LC,-,LC,lll,,II-B 
+252,Lullula arborea,ševa krunica,Wood Lark,A,R,B,M,W,LC,-,LC,lll,,I
+253,Riparia riparia,bregunica,Sand Martin,A,R,B,M, -,VU,A2a,LC,II,,
+254,Hirundo rustica,lastavica,Barn Swallow,A,R,B,M, -,LC,-,LC,II,,
+255,Hirundo rupestris,hridna lastavica,Eurasian Crag-martin,A,R,B, -, -,LC,-,LC,II,,
+256,Delichon urbicum,piljak,Northern House-martin,A,R,B,M, -,LC,-,LC,II,,
+257,Hirundo daurica,daurska lastavica,Red-rumped Swallow,A,R,B, -, -,LC*,-,LC,II,,
+258,Anthus richardi,velika trepteljka,Richard's Pipit,A,Rare, -, -, -, -,,LC,,,
+259,Anthus campestris,primorska trepteljka,Tawny Pipit,A,R,B,M, -,LC,-,LC,II,,I
+260,Anthus pratensis,livadna trepteljka,Meadow Pipit,A,R, -,M,W, -,,LC,II,,
+261,Anthus cervinus,rusogrla trepteljka,Red-throated Pipit,A,Ir, -,M*, -, -,,LC,II,,
+262,Anthus trivialis,prugasta trepteljka,Tree Pipit,A,R,B,M, -,LC,-,LC,II,,
+263,Anthus spinoletta,planinska trepteljka,Water Pipit,A,R,B,M,W,LC,-,LC,II,,
+264,Motacilla alba,bijela pastirica,White Wagtail,A,R,B,M,W,LC,-,LC,II,,
+265,Motacilla flava,žuta pastirica,Yellow Wagtail,A,R,B,M, -,LC,-,LC,II,,
+266,Motacilla citreola,limunasta pastirica,Citrine Wagtail,A,Rare, -, -, -, -,,LC,II,,
+267,Motacilla cinerea,gorska pastirica,Grey Wagtail,A,R,B,M,W,LC,-,LC,II,,
+268,Bombycilla garrulus,kugara,Bohemian Waxwing,A,Ir, -, -,W*, -,,LC,II,,
+269,Cinclus cinclus,vodenkos,White-throated Dipper,A,R,B, -, -,LC,-,LC,II,,
+270,Troglodytes troglodytes,palčić,Winter Wren,A,R,B,M,W,LC,-,LC,II,,
+271,Prunella collaris,alpski popić,Alpine Accentor,A,R,B, -, -,LC*,-,LC,II,,
+272,Prunella atrogularis,crnobradi popić,Black-throated Accentor,A,Rare, -, -, -, -,,LC,III,,
+273,Prunella modularis,sivi popić,Hedge Accentor,A,R,B,M,W,LC,-,LC,II,,
+274,Turdus viscivorus,drozd imelaš,Mistle Thrush,A,R,B,M,W,LC,-,LC,lll,ll,II-B 
+275,Turdus philomelos,drozd cikelj,Song Thrush,A,R,B,M,W,LC,-,LC,lll,ll,II-B 
+276,Turdus iliacus,mali drozd,Redwing,A,R, -,M,W, -,,LC,lll,ll,II-B 
+277,Turdus pilaris,drozd bravenjak,Fieldfare,A,R,B,M,W,NA,-,LC,lll,ll,II-B 
+278,Turdus eunomus,šareni drozd,Dusky Thrush,B,, -, -, -, -,,UR,,,
+279,Turdus merula,kos,Eurasian Blackbird,A,R,B,M,W,LC,-,LC,lll,ll,II-B 
+280,Turdus torquatus,planinski kos,Ring Ouzel,A,R,B,M,W,LC*,-,LC,II,ll,
+281,Monticola saxatilis,kamenjar,Rufous-tailed Rock-thrush,A,R,B,M, -,LC,-,LC,II,ll,
+282,Monticola solitarius,modrokos,Blue Rock-thrush,A,R,B, -, -,LC,-,LC,II,ll,
+283,Luscinia luscinia,mrki slavuj,Thrush Nightingale,A,R, -,M, -, -,,LC,II,ll,
+284,Luscinia megarhynchos,slavuj,Common Nightingale,A,R,B,M, -,LC,-,LC,II,ll,
+285,Luscinia svecica,modrovoljka,Bluethroat,A,R,B,M, -,EN,D,LC,II,ll,I
+286,Erithacus rubecula,crvendać,European Robin,A,R,B,M,W,LC,-,LC,II,ll,
+287,Erythropygia galactotes,živičnjak,Rufous-tailed Scrub-robin,A,Ac, -, -, -, -,,LC,ll ,ll,
+288,Phoenicurus ochruros,mrka crvenrepka,Black Redstart,A,R,B,M,W,LC,-,LC,II,ll,
+289,Phoenicurus phoenicurus,šumska crvenrepka,Common Redstart,A,R,B,M, -,LC,-,LC,II,ll,
+290,Saxicola rubetra,smeđoglavi batić,Whinchat,A,R,B,M, -,LC,-,LC,II,ll,
+291,Saxicola torquatus,crnoglava batić,Common Stonechat,A,R,B,M,W,LC,-,LC,II,ll,
+292,Oenanthe oenanthe,sivkasta bjeloguza,Northern Wheatear,A,R,B,M, -,LC,-,LC,II,ll,
+293,Oenanthe pleschanka,dvobojna bjeloguza,Pied Wheatear,A,Rare, -, -, -, -,,LC,II,ll,I
+294,Oenanthe hispanica,primorska bjeloguza,Black-eared Wheatear,A,R,B, -, -,LC,-,LC,II,ll,
+295,Oenanthe isabellina,azijska bjeloguza,Isabelline Wheatear,A,Rare, -, -, -, -,,LC,,,
+296,Muscicapa striata,muharica,Spotted Flycatcher,A,R,B,M, -,LC,-,LC,II,ll,
+297,Ficedula hypoleuca,crnoglava muharica,European Pied Flycatcher,A,R, -,M, -, -,,LC,II,ll,
+298,Ficedula albicollis,bjelovrata muharica,Collared Flycatcher,A,R,B,M, -,LC,-,LC,II,ll,I
+299,Ficedula semitorquata,sirijska muharica,Semi-collared Flycatcher,B,, -, -, -, -,,NT,,,I
+300,Ficedula parva,mala muharica,Red-breasted Flycatcher,A,R,B,M, -,LC*,-,LC,II,ll,I
+301,Regulus ignicapilla,vatroglavi kraljić,Firecrest,A,R,B,M,W,LC,-,LC,II,ll,
+302,Regulus regulus,zlatoglavi kraljić,Goldcrest,A,R,B,M,W,LC,-,LC,II,ll,
+303,Cisticola juncidis,šivalica,Zitting Cisticola,A,R,B, -, -,LC*,-,LC,II,ll,
+304,Cettia cetti,svilorepa,Cetti's Warbler,A,R,B, -, -,LC,-,LC,II,ll,
+305,Locustella naevia,pjegavi cvrčić,Common Grasshopper-warbler,A,R,B,M, -,NT*,-,LC,II,ll,
+306,Locustella fluviatilis,cvrčić potočar,Eurasian River Warbler,A,R,B,M, -,LC,-,LC,II,ll,
+307,Locustella luscinioides,veliki cvrčić,Savi's Warbler,A,R,B,M, -,LC,-,LC,II,ll,
+308,Acrocephalus melanopogon,crnoprugasti trstenjak,Moustached Warbler,A,R,B,M,W,CR,D,LC,II,ll,I
+309,Acrocephalus paludicola,trstenjak ševar,Aquatic Warbler,A,Ac, -,M*, -, -,,VU,II,"l, ll",I
+310,Acrocephalus schoenobaenus,trstenjak rogožar,Sedge Warbler,A,R,B,M, -,LC,-,LC,II,ll,
+311,Acrocephalus agricola,poljski trstenjak,Paddyfield Warbler,A,Rare, -, -, -, -,,LC,II,ll,
+312,Acrocephalus scirpaceus,trstenjak cvrkutić,Eurasian Reed-warbler,A,R,B,M, -,LC,-,LC,II,ll,
+313,Acrocephalus dumetorum,trstenjak žbunjar,Blyth's Reed-warbler,A,Ac, -, -, -, -,,LC,ll,ll,
+314,Acrocephalus palustris,trstenjak mlakar,Marsh Warbler,A,R,B,M, -,LC,-,LC,II,ll,
+315,Acrocephalus arundinaceus,veliki trstenjak,Great Reed-warbler,A,R,B,M, -,LC,-,LC,II,ll,
+316,Hippolais caligata,voljić žbunjar,Booted Warbler,A,Rare, -, -, -, -,,LC,III,II,
+317,Hippolais pallida,sivi voljić,Eastern Olivaceous Warbler,A,R,B, -, -,LC,-,LC,II,ll,
+318,Hippolais olivetorum,voljić maslinar,Olive-tree Warbler,A,R,B, -, -,NT*,-,LC,II,ll,l
+319,Hippolais polyglotta,kratkokrili voljić,Melodious Warbler,A,R,B, -, -,LC,-,LC,II,ll,
+320,Hippolais icterina,žuti voljić,Icterine Warbler,A,R,B,M, -,NT*,-,LC,II,ll,
+321,Phylloscopus trochilus,brezov zviždak,Willow Warbler,A,R,B,M, -,NT**,-,LC,II,ll,
+322,Phylloscopus collybita,zviždak,Common Chiffchaff,A,R,B,M,W,LC,-,LC,II,ll,
+323,Phylloscopus bonelli,gorski zviždak,Bonelli's Warbler,A,R,B, -, -,EN,D,LC,II,ll,
+324,Phylloscopus sibilatrix,šumski zviždak,Wood Warbler,A,R,B,M, -,LC,-,LC,II,ll,
+325,Phylloscopus proregulus,zlatoglavi zviždak,Lemon-rumped Warbler,B,, -, -, -, -,,LC,,,
+326,Phylloscopus inornatus,azijski zviždak,Inornate Warbler,A,Rare, -, -, -, -,,LC,II,ll,
+327,Sylvia atricapilla,crnokapa grmuša,Blackcap,A,R,B,M,W,LC,-,LC,II,ll,
+328,Sylvia borin,siva grmuša,Garden Warbler,A,R,B,M, -,LC,-,LC,II,ll,
+329,Sylvia nisoria,pjegava grmuša,Barred Warbler,A,R,B,M, -,LC,-,LC,II,ll,I
+330,Sylvia curruca,grmuša čevrljinka,Lesser Whitethroat,A,R,B,M, -,LC,-,LC,II,ll,
+331,Sylvia hortensis,istočna velika grmuša,Orphean Warbler,A,R,B, -, -,LC,-,LC,II,ll,
+332,Sylvia communis,grmuša pjenica,Common Whitethroat,A,R,B,M, -,LC,-,LC,II,ll,
+333,Sylvia undata,crvenooka grmuša,Dartford Warbler,B,, -, -, -, -,,NT,II,II,I
+334,Sylvia cantillans,bjelobrka grmuša,Subalpine Warbler,A,R,B, -, -,LC,-,LC,II,ll,
+335,Sylvia melanocephala,crnoglava grmuša,Sardinian Warbler,A,R,B, -, -,LC,-,LC,II,ll,
+336,Panurus biarmicus,brkata sjenica,Bearded Parrotbill,A,R,B,M,W,EN,D,LC,II,,
+337,Parus lugubris,mrka sjenica,Sombre Tit,A,R,B, -, -,LC,-,LC,II,,
+338,Parus palustris,crnoglava sjenica,Marsh Tit,A,R,B, -, -,LC,-,LC,II,,
+339,Parus montanus,planinska sjenica,Willow Tit,A,R,B, -, -,LC,-,LC,II,,
+340,Parus ater,jelova sjenica,Coal Tit,A,R,B,M*,W*,LC,-,LC,II,,
+341,Parus cristatus,kukmasta sjenica,Crested Tit,A,R,B, -, -,LC,-,LC,II,,
+342,Parus major,velika sjenica,Great Tit,A,R,B,M*,W*,LC,-,LC,II,,
+343,Parus caeruleus,plavetna sjenica,Blue Tit,A,R,B, -,W*,LC,-,LC,II,,
+344,Parus cyanus,bijela sjenica,Azure Tit,B,, -, -, -, -,,LC,II,,
+345,Remiz pendulinus,sjenica mošnjarka,Eurasian Penduline-tit,A,R,B,M,W,LC,-,LC,lll,,
+346,Aegithalos caudatus,dugorepa sjenica,Long-tailed Tit,A,R,B, -, -,LC,-,LC,lll,,
+347,Sitta europaea,brgljez,Wood Nuthatch,A,R,B, -, -,LC,-,LC,II,,
+348,Sitta neumayer,brgljez kamenjar,Western Rock-nuthatch,A,R,B, -, -,LC,-,LC,II,,
+349,Tichodroma muraria,zidarčac,Wallcreeper,A,R, -, -,W, -,,LC,II,,
+350,Certhia familiaris,kratkokljuni puzavac,Eurasian Treecreeper,A,R,B, -, -,LC,-,LC,II,,
+351,Certhia brachydactyla,dugokljuni puzavac,Short-toed Treecreeper,A,R,B, -, -,LC,-,LC,II,,
+352,Oriolus oriolus,vuga,Eurasian Golden Oriole,A,R,B,M, -,LC,-,LC,II,,
+353,Lanius collurio,rusi svračak,Red-backed Shrike,A,R,B,M, -,LC,-,LC,II,,I
+354,Lanius minor,sivi svračak,Lesser Grey Shrike,A,R,B,M, -,LC,-,LC,II,,I
+355,Lanius excubitor,veliki svračak,Great Grey Shrike,A,R, -, -,W, -,,LC,II,,
+356,Lanius senator,riđoglavi svračak,Woodchat Shrike,A,R,B, -, -,LC,-,LC,II,,
+357,Garrulus glandarius,šojka,Eurasian Jay,A,R,B, -,W,LC,-,LC,lll,,II-B 
+358,Pica pica,svraka,Black-billed Magpie,A,R,B, -, -,LC,-,LC,lll,,II-B 
+359,Nucifraga caryocatactes,kreja,Spotted Nutcracker,A,R,B, -, -,LC,-,LC,II,,
+360,Pyrrhocorax graculus,žutokljuna galica,Yellow-billed Chough,A,R,B, -, -,LC,-,LC,II,,
+361,Corvus monedula,čavka,Eurasian Jackdaw,A,R,B, -, -,LC,-,LC,,,II-B 
+362,Corvus frugilegus,gačac,Rook,A,R,B, -,W*,LC,-,LC,lll,,II-B 
+363,Corvus corone,crna vrana,Carrion Crow,A,Ac, -, -, -, -,,LC,,,II-B 
+364,Corvus cornix,siva vrana,Hooded Crow,A,R,B, -, -,LC,-,UR,lll,,
+365,Corvus corax,gavran,Common Raven,A,R,B, -, -,LC,-,LC,lll,,
+366,Sturnus vulgaris,čvorak,Common Starling,A,R,B,M,W,LC,-,LC,lll,,II-B 
+367,Sturnus roseus,ružičasti čvorak,Rosy Starling,A,R, -,M, -, -,,LC,II,,
+368,Passer domesticus,vrabac,House Sparrow,A,R,B, -, -,LC,-,LC,lll,,
+369,Passer hispaniolensis,španjolski vrabac,Spanish Sparrow,A,R,B, -, -,LC,-,LC,lll,,
+370,Passer montanus,poljski vrabac,Eurasian Tree Sparrow,A,R,B,M*,W*,LC,-,LC,lll,,
+371,Petronia petronia,vrabac kamenjar,Rock Sparrow,B,, -, -, -, -,,LC,II,,
+372,Montifringilla nivalis,snježni vrabac,White-winged Snowfinch,A,Rare, -, -, -, -,,LC,II,,
+373,Euplectes afer,žutokruna pletilja,Yellow-crowned Bishop,D,Rare, -, -, -, -,,LC,,,
+374,Fringilla coelebs,zeba,Eurasian Chaffinch,A,R,B,M,W,LC,-,LC,lll,,
+375,Fringilla montifringilla,sjeverna zeba,Brambling,A,R, -,M,W, -,,LC,lll,,
+376,Serinus serinus,žutarica,European Serin,A,R,B,M,W,LC,-,LC,II,,
+377,Carduelis chloris,zelendur,European Greenfinch,A,R,B,M,W,LC,-,LC,II,,
+378,Carduelis spinus,čižak,Eurasian Siskin,A,R,B,M,W,LC,-,LC,II,,
+379,Carduelis carduelis,češljugar,European Goldfinch,A,R,B,M,W,LC,-,LC,II,,
+380,Carduelis citrinella,planinska žutarica,Alpine Citril Finch,A,Rare, -, -, -, -,,LC,II,,
+381,Carduelis flammea,sjeverna juričica,Common Redpoll,A,R, -, -,W, -,,LC,II,,
+382,Carduelis hornemanni,polarna juričica,Hoary Redpoll,A,Rare, -, -, -, -,,LC,ll,,
+383,Carduelis flavirostris,gorska juričica,Twite,A,Rare, -, -, -, -,,LC,II,,
+384,Carduelis cannabina,juričica,Eurasian Linnet,A,R,B,M,W,LC,-,LC,II,,
+385,Carpodacus erythrinus,rujnica,Common Rosefinch,A,Rare, -, -, -, -,,LC,II,,
+386,Loxia curvirostra,krstokljun,Red Crossbill,A,R,B,M*,W*,LC,-,LC,II,,
+387,Loxia pytyopsittacus,veliki krstokljun,Parrot Crossbill,B,, -, -, -, -,,LC,II,,
+388,Pyrrhula pyrrhula,zimovka,Eurasian Bullfinch,A,R,B,M*,W,LC,-,LC,lll,,
+389,Coccothraustes coccothraustes,batokljun,Hawfinch,A,R,B,M,W,LC,-,LC,II,,
+390,Miliaria calandra,velika strnadica,Corn Bunting,A,R,B,M,W*,LC,-,LC,lll,,
+391,Emberiza citrinella,žuta strnadica,Yellowhammer,A,R,B,M*,W*,LC,-,LC,II,,
+392,Emberiza leucocephalos,bjeloglava strnadica,Pine Bunting,A,Rare, -, -, -, -,,LC,,,
+393,Emberiza cia,strnadica cikavica,Rock Bunting,A,R,B, -, -,LC,-,LC,II,,
+394,Emberiza hortulana,vrtna strnadica,Ortolan Bunting,A,R,B,M, -,LC,-,LC,lll,,I
+395,Emberiza cirlus,crnogrla strnadica,Cirl Bunting,A,R,B, -, -,LC,-,LC,II,,
+396,Emberiza rustica,šumska strnadica,Rustic Bunting,A,Rare, -, -, -, -,,LC,,,
+397,Emberiza melanocephala,crnoglava strnadica,Black-headed Bunting,A,R,B, -, -,LC,-,LC,II,,
+398,Emberiza schoeniclus,močvarna strnadica,Reed Bunting,A,R,B,M,W,LC,-,LC,II,,
+399,Calcarius lapponicus,laponska strnadica,Lapland Longspur,A,Rare, -, -, -, -,,LC,II,,
+400,Plectrophenax nivalis,bijela strnadica,Snow Bunting,A,Rare, -, -, -, -,,LC,II,,
